@@ -1,0 +1,10 @@
+{"method":"POST","path":"ifollow_contact_center_new\/api\/v1\/register","name":"Register (Code=zfbhux8)","body":{"first_name":"Ahsan","last_name":"Salim","email":"o1fd6.sda@gmail.com","password":"ahsan","code":"4mda5mv","device_token":null},"headers":[],"id":"ggjXiMCiJNfXKgl2"}
+{"method":"POST","path":"ifollow_contact_center\/api\/v1\/login","name":"Login","body":{"email":"o16.ahsan@gmail.com","password":"ahsan"},"headers":[],"id":"el5XNaJb9GEr2SX1"}
+{"method":"POST","path":"ifollow_contact_center\/api\/v1\/forgot_password","name":"Forgot password","body":{"email":"o16.ahsan@gmail.com"},"headers":[],"id":"G3qw59qOb9PZe0g5"}
+{"method":"POST","path":"ifollow_contact_center\/api\/v1\/verify_code","name":"Verification Code","body":{"email":"o16.ahsan@gmail.com","code":"12345","password":"12345"},"headers":[],"id":"kmArPNW3Zsy9FBVm"}
+{"method":"POST","path":"ifollow_contact_center\/api\/v1\/change_password","name":"Change Password","body":{"old_password":"12345","new_password":"12345"},"headers":[],"id":"yzbmheDQJ5jRMkwa"}
+{"method":"POST","path":"\/ifollow_contact_center_new\/api\/v1\/update_video_archive_id","name":null,"body":{"video_id":"897161528272516","archive_id":"864765f2-518a-4819-9f5b-f0315e147972"},"headers":[{"key":"user-id","value":"7ea8eca2-538e-11e8-ad7b-0a0c5a8818e4"},{"key":"auth-id","value":"ed71b8390544aab31272192a782587facc58db00f3433ef357d0551c3a05e1f1"}],"id":"EuLNIZLpENgGAeOO"}
+{"method":"POST","path":"\/ifollow_contact_center_new\/api\/v1\/logout","name":"Logout","body":null,"headers":[],"id":"yKCyynwWJPKB7OOz"}
+{"method":"GET","path":"ifollow_contact_center_new\/api\/v1\/delete_notification","name":null,"body":null,"headers":[{"key":"user-id","value":"7ea8eca2-538e-11e8-ad7b-0a0c5a8818e4"},{"key":"auth-id","value":"15f15cf5f4836480a69dd26c2ae2824e59f1f710e554ecb056a12718d0323469"}],"id":"cy2YnT5ARrm4Tw7L"}
+{"method":"POST","path":"ifollow_contact_center_new\/api\/v1\/get_notifications","name":null,"body":null,"headers":[{"key":"user-id","value":"7ea8eca2-538e-11e8-ad7b-0a0c5a8818e4"},{"key":null,"value":null}],"id":"P3UKicHsfDVaj8aB"}
+

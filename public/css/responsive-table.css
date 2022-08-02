@@ -1,0 +1,46 @@
+
+@media screen and (max-width: 767px){
+
+    .table_responsive table{
+        width:100%
+    }
+    .table_responsive thead  td,th{
+        width: 100% !important;
+        font-weight:bold;
+        font-size:1.3em
+    }
+    .table_responsive tr,th:nth-of-type(2n){
+        background-color:inherit;
+        font-size: 14px;
+    }
+    .table_responsive tr td:first-child{
+        width: 100%;
+        font-weight:bold;
+        font-size: 14px;
+    }
+    .table_responsive tbody td,th{
+        display:block;
+        text-align:center
+    }
+    .table_responsive tbody td,th:before{
+        content:attr(data-th);
+        display:block;
+        text-align:center
+    }
+
+    .table_responsive thead td,th{
+        display:block;
+        text-align:center
+    }
+    .table_responsive thead td,th:before{
+        content:attr(data-th);
+        display:block;
+        text-align:center
+    }
+    .table_responsive  td,th{
+        font-size: 14px;
+    }
+}
+
+
+
